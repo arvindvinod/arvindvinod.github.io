@@ -30,3 +30,7 @@ h1 {
 a:hover {
     color: orange; 
 }
+
+.image-with-margin {
+    margin-top: 10px;
+}
