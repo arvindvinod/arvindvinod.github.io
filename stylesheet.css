@@ -5,7 +5,7 @@ h1 {
   .custom-class {
     background-color: lightgray;
     padding: 20px; 
-    padding: 10px; 
+    margin: 10px; 
 }
 #section-1 {
     border: 2px solid green; 
