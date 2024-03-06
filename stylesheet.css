@@ -21,3 +21,6 @@ h1 {
     margin: 10px; 
 
 }
+a:hover {
+    color: purple; 
+}
