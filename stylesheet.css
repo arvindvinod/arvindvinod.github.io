@@ -34,3 +34,8 @@ a:hover {
 .image-with-margin {
     margin-top: 50px;
 }
+
+.image-description {
+    font-style: italic;
+    color: black;
+}
